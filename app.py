@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # TITLE
-st.title("Kolkata's Population Forecasting Dashboard")
+st.title("Kolkata's Decedal Population Forecasting Dashboard")
 
 st.markdown(
 """
